@@ -13,7 +13,7 @@ This project is a short workflow that analyzes the 10x Genomics PBMC10k dataset 
 
 ## Results
 - Identified major immune cell populations (T cells, NK cells, B cells, monocytes, dendritic cells)
-- UMAP visualizations included in `/pbmc10k_images`
+- UMAP visualizations included in `/pbmc10k_figures`
 
 
 ## How to Run
